@@ -55,9 +55,9 @@ All four visualisations are combined into an **interactive dashboard.**
 
 ## Key Insights
 
-- Individuals across **all lifestyle categories***, including healthier groups, experience **high-severity mental health issues**.
+- Individuals across **all lifestyle categories**, including healthier groups, experience **high-severity mental health issues**.
 - Stress levels show variation across **age groups, occupations, and physical activity levels**, though differences are often subtle.
-- Regardless of age or stress level, most individuals report **2–5 hours of daily social media usage**.
+- Regardless of age or stress level, most individuals report **2-5 hours of daily social media usage**.
 - **Nearly half of individuals with mental health conditions do not seek professional help or take medication**, even at higher severity levels.
 
 ## Key Takeaway
