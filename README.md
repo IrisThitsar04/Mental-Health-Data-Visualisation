@@ -15,7 +15,7 @@ To address these objectives, the project implements **four interactive visualisa
 
 ![Mental Health, Lifestyle & Help-Seeking Behaviour Dashboard](mental-health-lifestyle-help-seeking-dashboard.png)
 
-**Interactive Dashboard:** [View Dashboard](https://public.tableau.com/app/profile/iris.thitsar/viz/MayThiriThitsar_DataVisualisation_CA1_TableauPraticalAssignment/MentalHealthInsightsDashboard?publish=yes)
+**Interactive Dashboard:** [View Dashboard](https://public.tableau.com/app/profile/iris.thitsar/viz/mental_health_lifestyle_stress_analysis_dashboard/MentalHealthInsightsDashboard?publish=yes)
 
 ## Dataset Description
 
